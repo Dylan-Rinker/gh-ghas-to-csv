@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/cli/go-gh"
-	"github.com/dylan-rink/gh-ghas-to-csv/cmd"
+	"github.com/dylan-rinker/gh-ghas-to-csv/cmd"
 )
 
 func main() {
